@@ -2,10 +2,7 @@ package OOPSConcept;
 
 import java.util.Scanner;
 
-public class Arm
-{
-	
-}
+
 
 public class ArmStrongNumber {
 
